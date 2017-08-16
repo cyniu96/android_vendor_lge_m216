@@ -72,15 +72,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/m216/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
     vendor/lge/m216/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/lge/m216/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
-    vendor/lge/m216/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/m216/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/lge/m216/proprietary/lib/libHDR.so:system/lib/libHDR.so \
     vendor/lge/m216/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/lge/m216/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lge/m216/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/lge/m216/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/lge/m216/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/lge/m216/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/m216/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/lge/m216/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/lge/m216/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
