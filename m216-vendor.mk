@@ -86,7 +86,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/m216/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/lge/m216/proprietary/lib/libmorpho_image_stab31.so:system/lib/libmorpho_image_stab31.so \
     vendor/lge/m216/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/lge/m216/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/m216/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/lge/m216/proprietary/lib/libSJlowlight.so:system/lib/libSJlowlight.so \
     vendor/lge/m216/proprietary/lib/libuicc.so:system/lib/libuicc.so \
